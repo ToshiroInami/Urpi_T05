@@ -91,6 +91,18 @@ header nav ul li a:hover {
     background-color: #ffffff;
     padding-bottom: 40px;
 }
+.containerredsoc h3{
+    z-index: 2;
+}
+/*IMAGEN PERSONA*/
+.persona{
+    position: absolute;
+    z-index: 1;
+}
+.persona img{
+    width: 200px;
+    align-items: right;
+}
 
 /*CARDS GENERALES*/
 .containerredsoc .carddoc{
@@ -103,6 +115,7 @@ header nav ul li a:hover {
     font-family: inria serif;
     transition: all 1s ease;
     margin-bottom: -20px;
+    z-index: 2;
 }
 .containerredsoc .carddoc h1{
     font-size: 20px;
