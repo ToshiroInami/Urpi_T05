@@ -1,6 +1,6 @@
 # Urpi_T05
 
-Prototipado URPI - Radio Digital
+Prototipado URPI - Radio Digital (Código de Manera Local)
 Tema:
 Transmisión por Redes
 
