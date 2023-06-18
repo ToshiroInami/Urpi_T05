@@ -1,14 +1,13 @@
-# Urpi_T05
+# T05_Urpi
 
 Prototipado URPI - Radio Digital (Código de Manera Local)
 Tema:
 Transmisión por Redes
 
-Hecho por Omar López García
-
-
 Team 05:
-  - Toshiro Inami Armas
-  - Maylin Jauregui Gamboa
-  - Edgar Junes Acuña
-  - Kimberling Lipa Yactayo
+  - 21_Toshiro Inami Armas
+  - 22_Maylin Jauregui Gamboa
+  - 23_Edgar Junes Acuña
+  - 24_Kimberling Lipa Yactayo
+  - 25_Omar López García
+
